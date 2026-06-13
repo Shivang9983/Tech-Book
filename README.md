@@ -46,7 +46,7 @@ git clone https://github.com/Shivang9983/Teach-Book.git
 Add screenshots of your website here.
 
 ### Home Page
-![Home Page](images/home.png)
+![Home Page](screenshot.png)
 
 ## 🎯 Purpose
 
