@@ -59,5 +59,3 @@ Feel free to fork this repository and submit pull requests for improvements.
 ## 👨‍💻 Author
 
 **Shivang kumar**
-
-Made with ❤️ using HTML, CSS, and JavaScript.
